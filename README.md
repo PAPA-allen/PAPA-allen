@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Allen Nii Ayitey Aryee</h1>
-<h3 align="center">A passionate full-Stack developer from Ghana, I thrive on solving complex problems and turning ideas into reality through code.</h3>
+<h3 align="center">A passionate full-Stack developer, I thrive on solving complex problems and turning ideas into reality through code.</h3>
 
 - 📫 How to reach me **allenniia@gmail.com**
 
