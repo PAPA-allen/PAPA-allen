@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=papa-allen&label=Profile%20views&color=0e75b6&style=flat" alt="papa-allen" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=papa-allen" alt="papa-allen" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/allen_aryee" target="blank"><img src="https://img.shields.io/twitter/follow/allen_aryee?logo=twitter&style=for-the-badge" alt="allen_aryee" /></a> </p>
 
 - 🔭 I’m currently working on **building myself and upgrading daily**
