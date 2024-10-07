@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Allen Nii Ayitey Aryee</h1>
-<h3 align="center">A passionate full-Stack developer, I thrive on solving complex problems and turning ideas into reality through code.</h3>
+<h3 align="center">Hi 👋, I’m Allen Nii Aryee, a dedicated full-stack developer with a strong passion for front-end development, particularly using TypeScript and React. My technical expertise lies in crafting dynamic and responsive web and mobile applications, ensuring a seamless user experience. Technical Skills: Languages: JavaScript, TypeScript | Front-End: React, Redux | Back-End: Node.js, Express | Databases: MongoDB | Version Control: Git About Me: I have practical experience in developing and maintaining applications from the ground up, collaborating closely with teams to bring innovative ideas to life. My focus on user-centered design drives me to create engaging and intuitive interfaces while ensuring robust back-end functionality. I am open to part-time or full-time opportunities and am flexible with remote work arrangements. I am eager to put my skills to use and contribute to exciting projects.</h3>
+
+- 🔭 I’m currently working on **building myself and upgrading daily**
+
+- 👯 I’m looking to collaborate with **both full-stack and backend developers**
 
 - 📫 How to reach me **allenniia@gmail.com**
 
