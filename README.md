@@ -11,9 +11,9 @@
 ###
 
 <p align="left">
-  🔧 **Languages**: JavaScript, TypeScript<br>
+  🔧 **Languages**: JavaScript, TypeScript, PHP<br>
   🖥️ **Front-End**: React, Redux, Next.js, TailwindCSS, React Native<br>
-  ⚙️ **Back-End**: Node.js, Express, NestJS, GraphQL<br>
+  ⚙️ **Back-End**: Node.js, Express, NestJS, GraphQL, PHP<br>
   🗄️ **Databases**: MongoDB, PostgreSQL, Redis<br>
   🛠️ **Tools & Technologies**: Docker, Webpack, Jest, Git, CI/CD<br>
 </p>
@@ -25,22 +25,7 @@
 ###
 
 <p align="left">
-  I have hands-on experience in designing and building robust web applications using a combination of modern front-end and back-end technologies. I excel in creating dynamic user interfaces with React and React Native, and I’m highly proficient in developing back-end services with Node.js and Express. My approach to software engineering is grounded in writing clean, maintainable code, while constantly striving to optimize for performance and scalability. I am well-versed in integrating third-party APIs, managing databases, and deploying applications to production environments using Docker and cloud services.
-</p>
-
-###
-
-<h2 align="left">Projects</h2>
-
-###
-
-<p align="left">
-  I have worked on a variety of projects, from building responsive and interactive user interfaces to architecting and developing server-side applications. Some of my recent work includes:
-  <ul>
-    <li><strong>eCommerce Web Application</strong>: A full-featured online store built with React, Node.js, and MongoDB, including payment gateway integration and order management.</li>
-    <li><strong>Real-Time Chat Application</strong>: A messaging app using React, Node.js, and Redis for message caching, with WebSocket for real-time updates.</li>
-    <li><strong>Mobile Application</strong>: A cross-platform mobile app built with React Native, enabling users to track their fitness goals.</li>
-  </ul>
+  I have hands-on experience in designing and building robust web applications using a combination of modern front-end and back-end technologies. I excel in creating dynamic user interfaces with React and React Native, and I’m highly proficient in developing back-end services with Node.js, Express, and PHP. My approach to software engineering is grounded in writing clean, maintainable code, while constantly striving to optimize for performance and scalability. I am well-versed in integrating third-party APIs, managing databases, and deploying applications to production environments using Docker and cloud services.
 </p>
 
 ###
@@ -77,9 +62,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwind logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
 </div>
-
-###
 
 <h2 align="left">Reach out to me</h2>
 
