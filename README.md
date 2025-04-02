@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a passionate and skilled Full-Stack Software Engineer with a focus on building scalable, high-performance web and mobile applications. My expertise spans both front-end and back-end development, with a keen eye for performance optimization and user-centered design. I thrive in collaborative environments and enjoy solving complex problems using the latest technologies.</p>
+<p align="left">I'm a passionate and skilled Full-Stack Software Engineer from Ghana with a focus on building scalable, high-performance web and mobile applications. My expertise spans both front-end and back-end development, with a keen eye for performance optimization and user-centered design. I thrive in collaborative environments and enjoy solving complex problems using the latest technologies.</p>
 
 ###
 
@@ -12,11 +12,10 @@
 
 <p align="left">
   🔧 **Languages**: JavaScript, TypeScript<br>
-  🖥️ **Front-End**: React, Redux, Next.js, TailwindCSS, React Native, HTML5, CSS3, SASS<br>
+  🖥️ **Front-End**: React, Redux, Next.js, TailwindCSS, React Native<br>
   ⚙️ **Back-End**: Node.js, Express, NestJS, GraphQL<br>
   🗄️ **Databases**: MongoDB, PostgreSQL, Redis<br>
-  🛠️ **Testing**: Jest, React Testing Library, Cypress<br>
-  🧑‍💻 **Tools & Technologies**: Docker, Webpack, Git, CI/CD, Nginx, RESTful APIs<br>
+  🛠️ **Tools & Technologies**: Docker, Webpack, Jest, Git, CI/CD<br>
 </p>
 
 ###
@@ -78,8 +77,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwind logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo" />
 </div>
 
 ###
@@ -92,4 +89,3 @@
   📫 How to reach me: <strong>allenniia@gmail.com</strong><br>
   🐦 Follow me on Twitter: <a href="https://twitter.com/allen_aryee" target="blank">Twitter</a>
 </p>
-
